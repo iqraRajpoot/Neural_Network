@@ -20,6 +20,8 @@ Install dependencies using:
 ```bash
 pip install torch torchvision numpy matplotlib
 
+```
+
 
 ## Results
 
